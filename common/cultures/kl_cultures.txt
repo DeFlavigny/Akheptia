@@ -1,0 +1,27 @@
+
+
+kalmaric = {
+	graphical_culture = westerngfx
+
+	khensarian = {
+		primary = KHE
+		male_names = {
+			Ameth Cleoset Mernatari Khaa Aclid
+		}
+		female_names = {
+			Ametha Cleosa Mernataria Khia Aclid
+		}
+		dynasty_names = {
+			Nephra Khalma
+		}
+	}
+	male_names = {
+		Ameth Cleoset Mernatari Khaa Aclid
+	}
+	female_names = {
+		Ametha Cleosa Mernataria Khia Aclid
+	}
+	dynasty_names = {
+		Nephra Khalma
+	}
+}

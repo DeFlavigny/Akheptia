@@ -1,0 +1,10 @@
+
+
+subject_autarch_nation = {
+	local_manpower_modifier = 0.10
+}
+
+
+autarch_subject = {
+	local_manpower_modifier = 1
+}

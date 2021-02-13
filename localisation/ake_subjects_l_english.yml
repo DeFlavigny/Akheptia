@@ -1,0 +1,5 @@
+﻿l_english: 
+  autarch_vassal_title:0 "Autarchy"
+  autarch_vassal_title_plural:0 "Autarchies"
+  autarch_vassal_long_desc:0 "An Autarch subject must follow their overlord to war, cannot make certain diplomatic actions and will pay a fraction of his income to his overlord. Autarch subjects can also fight each other."
+  autarch_vassal_is_our:0 "$NAME|Y$ is our Autarch."
