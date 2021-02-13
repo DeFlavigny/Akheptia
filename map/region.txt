@@ -1503,6 +1503,7 @@ akheptia_region = {
 	areas = {
 		north_hetesehti
 		south_hetesehti
+		central_akhepshi
 	}
 }
 
