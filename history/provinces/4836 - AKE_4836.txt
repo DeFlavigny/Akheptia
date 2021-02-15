@@ -1,7 +1,7 @@
 # - AKE_4836
 owner = KHE
 controller = KHE 
-culture = khensarian
+culture = isesnet
 religion = sunni
 capital = "AKE_4836_City"
 trade_goods = grain

@@ -15,13 +15,109 @@ kalmaric = {
 			Nephra Khalma
 		}
 	}
+
+	demefer = {
+		primary = KHE
+		male_names = {
+			Ameth Cleoset Mernatari Khaa Aclid
+		}
+		female_names = {
+			Ametha Cleosa Mernataria Khia Aclid
+		}
+		dynasty_names = {
+			Nephra Khalma
+		}
+	}
+
+	aahonru = {
+		primary = KHE
+		male_names = {
+			Ameth Cleoset Mernatari Khaa Aclid
+		}
+		female_names = {
+			Ametha Cleosa Mernataria Khia Aclid
+		}
+		dynasty_names = {
+			Nephra Khalma
+		}
+	}
+
+	aaher = {
+		primary = KHE
+		male_names = {
+			Ameth Cleoset Mernatari Khaa Aclid
+		}
+		female_names = {
+			Ametha Cleosa Mernataria Khia Aclid
+		}
+		dynasty_names = {
+			Nephra Khalma
+		}
+	}
+
+	hotefret = {
+		primary = KHE
+		male_names = {
+			Ameth Cleoset Mernatari Khaa Aclid
+		}
+		female_names = {
+			Ametha Cleosa Mernataria Khia Aclid
+		}
+		dynasty_names = {
+			Nephra Khalma
+		}
+	}
+
+	isesnet = {
+		primary = KHE
+		male_names = {
+			Ameth Cleoset Mernatari Khaa Aclid
+		}
+		female_names = {
+			Ametha Cleosa Mernataria Khia Aclid
+		}
+		dynasty_names = {
+			Nephra Khalma
+		}
+	}
+
+	demokhep = {
+		primary = KHE
+		male_names = {
+			Ameth Cleoset Mernatari Khaa Aclid
+		}
+		female_names = {
+			Ametha Cleosa Mernataria Khia Aclid
+		}
+		dynasty_names = {
+			Nephra Khalma
+		}
+	}
+
+	gememkah = {
+		primary = KHE
+		male_names = {
+			Ameth Cleoset Mernatari Khaa Aclid
+		}
+		female_names = {
+			Ametha Cleosa Mernataria Khia Aclid
+		}
+		dynasty_names = {
+			Nephra Khalma
+		}
+	}
+
 	male_names = {
-		Ameth Cleoset Mernatari Khaa Aclid
+		Ameth Cleoset Mernatari Khaa Aclid 
+		Kawacleok Harkherqeth Karocris Ibiandes Baqekhmire Sekhephren Ibiseneb Hemanhotekh Khamunakht Paremopet Thutmoros Henut
+		Hakot Psusen Paner Nubkhesankh Rahemun Ahhoptakh Nubkherekh Khutari Rahetekh Amenhobi
 	}
 	female_names = {
 		Ametha Cleosa Mernataria Khia Aclid
+		Kawaclea Harkherqa Karocria Ibianda Baqekhmirine Sekhephra Ibisenne Hemanhotapra Khamunakhta Paremopetra Thutmorosia Hena
+		Hakotra Psusenza Panera Nubkhesankhra Rahema Ahhoptah Nubkheratra Khutara Rahetef Amenhoba
 	}
 	dynasty_names = {
-		Nephra Khalma
+		Nephra Khalma Nebehyt Henupses Henupses Henupses Henupses Henupses Henupses Henupses Neferu Inetkatamun Menkhenhotekh Nefemenes
 	}
 }
