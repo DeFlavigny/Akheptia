@@ -1503,7 +1503,37 @@ akheptia_region = {
 	areas = {
 		north_hetesehti
 		south_hetesehti
-		central_akhepshi
+		northeast_bastion_1
+		northeast_bastion_2
+		eastern_pass
+		eastern_plains_1
+		eastern_plains_2
+		eastern_plains_3
+		eastern_plains_4
+		western_plains_1
+		western_plains_2
+		western_plains_3
+		western_plains_4
+		western_plains_5
+		central_plains_1
+		central_plains_2
+		central_plains_3
+		central_plains_4
+		the_nook
+		southern_pass
+		recluse_1
+		recluse_2
+		recluse_3
+		northern_lordspine
+		southern_lordspine
+		imperial_wall_1
+		imperial_wall_2
+		imperial_wall_3
+		western_pass
+		imperial_wall_4
+		imperial_wall_5
+		akhepsreach
+		western_lordspine
 	}
 }
 
