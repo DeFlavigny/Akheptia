@@ -1534,6 +1534,14 @@ akheptia_region = {
 		imperial_wall_5
 		akhepsreach
 		western_lordspine
+		khanite_cities_1
+		khanite_cities_2
+		khanite_cities_3
+		khanite_plains_1
+		khanite_plains_2
+		khanite_plains_3
+		khanite_plains_4
+		khanite_plains_5
 	}
 }
 
