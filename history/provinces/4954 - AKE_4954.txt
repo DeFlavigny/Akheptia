@@ -1,7 +1,7 @@
 # - AKE_4954
 owner = KHE
 controller = KHE 
-culture = khensarian
+culture = ars_khanmut
 religion = sunni
 capital = "AKE_4954_City"
 trade_goods = grain

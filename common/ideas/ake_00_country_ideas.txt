@@ -1,0 +1,83 @@
+#Ideas for all countries of the Akheptian Empire
+
+KHE_ideas = {
+	start = {
+		diplomatic_reputation = 1
+		trade_efficiency = 0.1
+	}
+
+	bonus = {
+		prestige = 1
+	}
+
+	trigger = {
+		OR ={
+			tag = KHE
+		}
+
+	}
+
+	free = yes		#will be added at load.
+
+	khe_league_domain = {
+		land_morale = 0.1
+	}
+	kra_seat_of_gov = {
+		stability_cost_modifier = -0.1
+	}
+	kra_city_rights = {
+		global_tax_modifier = 0.10
+	}
+	kra_cas_forts = {
+		defensiveness = 0.20
+	}
+	kra_jewish_community = {
+		advisor_pool = 1
+	}
+	kra_polish_athens = {
+		technology_cost = -0.05
+	}
+	kra_free_city = {
+		diplomats = 1
+		diplomatic_upkeep = 1
+	}
+}
+
+A01_ideas = {
+	start = {
+		reduced_liberty_desire = 20
+		diplomatic_reputation = 1
+	}
+
+	bonus = {
+		discipline = 0.05
+	}
+
+	trigger = {
+		tag = A01
+	}
+
+	free = yes		#will be added at load.
+
+	old_akheptian_idea_1 = {
+		land_morale = 0.15
+	}
+	old_akheptian_idea_2 = {
+		vassal_income = 0.33
+	}
+	old_akheptian_idea_3 = {
+		advisor_cost = -0.20
+	}
+	old_akheptian_idea_4 = {
+		diplomats = 1
+	}
+	old_akheptian_idea_5 = {
+		state_maintenance_modifier = -0.30
+	}
+	old_akheptian_idea_6 = {
+		production_efficiency = 0.10
+	}
+	old_akheptian_idea_7 = {
+		development_cost = -0.10
+	}
+}

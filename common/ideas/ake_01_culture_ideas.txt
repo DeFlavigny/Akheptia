@@ -1,0 +1,41 @@
+#Ideas for all countries of the Akheptian Empire
+
+aahonru_ideas = {
+	start = {
+		army_tradition = 0.25
+		defensiveness = 0.20
+		diplomatic_upkeep = 1
+	}
+
+	bonus = {
+		discipline = 0.05
+	}
+
+	trigger = {
+		primary_culture = aahonru
+	}
+
+	free = yes		#will be added at load.
+
+	aahonru_idea_1 = {
+		stability_cost_modifier = -0.25
+	}
+	aahonru_idea_2 = {
+		shock_damage_received = 0.1
+	}
+	aahonru_idea_3 = {
+		nobles_loyalty_modifier = 0.1
+	}
+	aahonru_idea_4 = {
+		yearly_corruption = -0.1
+	}
+	aahonru_idea_5 = {
+		state_maintenance_modifier = -0.15
+	}
+	aahonru_idea_6 = {
+		garrison_size = 0.25
+	}
+	aahonru_idea_7 = {
+		build_cost = -0.15
+	}
+}

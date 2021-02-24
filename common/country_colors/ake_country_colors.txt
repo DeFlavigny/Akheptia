@@ -5,3 +5,10 @@ KHE = {
     color2= { 50 50 50  }
     color3= { 193 26 14  }
 }
+
+#Old Akheptia
+A01 = {
+    color1= { 2 79 35  }
+    color2= { 255 46 46  }
+    color3= { 77 191 86  }
+}

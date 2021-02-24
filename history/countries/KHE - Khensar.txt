@@ -1,20 +1,19 @@
 government = monarchy
-add_government_reform = feudal_theocracy
+add_government_reform = feudal_theocracy_legacy
 government_rank = 2
 mercantilism = 25
 technology_group = western
 religion = sunni
-primary_culture = khensarian 
-capital = 341	# Khensar
-fixed_capital = 341 # Cannot move capital away from this province & no power cost to move to it
+primary_culture = khensarian
+capital = 4975	# Khensar
+fixed_capital = 4975 # Cannot move capital away from this province & no power cost to move to it
 
 1399.1.1 = {
 	monarch = {
 		name = "Cleoset"
-		dynasty = "oth Khepses" 
+		dynasty = "oth Khepses"
 		adm = 5
 		dip = 4
 		mil = 4
 	}
 }
-

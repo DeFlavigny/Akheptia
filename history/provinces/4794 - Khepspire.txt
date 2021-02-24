@@ -1,6 +1,6 @@
 # - Khamendekh
-owner = KHE
-controller = KHE 
+owner = A01
+controller = A01
 culture = khensarian
 religion = sunni
 capital = "The Spire"

@@ -107,8 +107,34 @@ kalmaric = {
 		}
 	}
 
+	sen_khanmut = {
+		primary = KHE
+		male_names = {
+			Ameth Cleoset Mernatari Khaa Aclid
+		}
+		female_names = {
+			Ametha Cleosa Mernataria Khia Aclid
+		}
+		dynasty_names = {
+			Nephra Khalma
+		}
+	}
+
+	ars_khanmut = {
+		primary = KHE
+		male_names = {
+			Ameth Cleoset Mernatari Khaa Aclid
+		}
+		female_names = {
+			Ametha Cleosa Mernataria Khia Aclid
+		}
+		dynasty_names = {
+			Nephra Khalma
+		}
+	}
+
 	male_names = {
-		Ameth Cleoset Mernatari Khaa Aclid 
+		Ameth Cleoset Mernatari Khaa Aclid
 		Kawacleok Harkherqeth Karocris Ibiandes Baqekhmire Sekhephren Ibiseneb Hemanhotekh Khamunakht Paremopet Thutmoros Henut
 		Hakot Psusen Paner Nubkhesankh Rahemun Ahhoptakh Nubkherekh Khutari Rahetekh Amenhobi
 	}
