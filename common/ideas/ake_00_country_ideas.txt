@@ -43,7 +43,7 @@ KHE_ideas = {
 	}
 }
 
-A01_ideas = {
+A01_ideas = {#Savakar ideas
 	start = {
 		reduced_liberty_desire = 20
 		diplomatic_reputation = 1

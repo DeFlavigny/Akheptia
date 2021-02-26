@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = feudal_monarchy
+add_government_reform = administrative_republic
 government_rank = 2
 mercantilism = 25
 technology_group = western
