@@ -59,25 +59,225 @@ A01_ideas = {#Savakar ideas
 
 	free = yes		#will be added at load.
 
-	old_akheptian_idea_1 = {
+	savakar_idea_1 = {
 		land_morale = 0.15
 	}
-	old_akheptian_idea_2 = {
+	savakar_idea_2 = {
 		vassal_income = 0.33
 	}
-	old_akheptian_idea_3 = {
+	savakar_idea_3 = {
 		advisor_cost = -0.20
 	}
-	old_akheptian_idea_4 = {
+	savakar_idea_4 = {
 		diplomats = 1
 	}
-	old_akheptian_idea_5 = {
+	savakar_idea_5 = {
 		state_maintenance_modifier = -0.30
 	}
-	old_akheptian_idea_6 = {
+	savakar_idea_6 = {
 		production_efficiency = 0.10
 	}
-	old_akheptian_idea_7 = {
+	savakar_idea_7 = {
+		development_cost = -0.10
+	}
+}
+
+
+A02_ideas = {#Aramel
+	start = {
+		reduced_liberty_desire = 20
+		diplomatic_reputation = 1
+	}
+
+	bonus = {
+		discipline = 0.05
+	}
+
+	trigger = {
+		tag = A01
+	}
+
+	free = yes		#will be added at load.
+
+	savakar_idea_1 = {
+		land_morale = 0.15
+	}
+	savakar_idea_2 = {
+		vassal_income = 0.33
+	}
+	savakar_idea_3 = {
+		advisor_cost = -0.20
+	}
+	savakar_idea_4 = {
+		diplomats = 1
+	}
+	savakar_idea_5 = {
+		state_maintenance_modifier = -0.30
+	}
+	savakar_idea_6 = {
+		production_efficiency = 0.10
+	}
+	savakar_idea_7 = {
+		development_cost = -0.10
+	}
+}
+
+
+A03_ideas = {#Merkatari
+	start = {
+		reduced_liberty_desire = 20
+		diplomatic_reputation = 1
+	}
+
+	bonus = {
+		discipline = 0.05
+	}
+
+	trigger = {
+		tag = A01
+	}
+
+	free = yes		#will be added at load.
+
+	savakar_idea_1 = {
+		land_morale = 0.15
+	}
+	savakar_idea_2 = {
+		vassal_income = 0.33
+	}
+	savakar_idea_3 = {
+		advisor_cost = -0.20
+	}
+	savakar_idea_4 = {
+		diplomats = 1
+	}
+	savakar_idea_5 = {
+		state_maintenance_modifier = -0.30
+	}
+	savakar_idea_6 = {
+		production_efficiency = 0.10
+	}
+	savakar_idea_7 = {
+		development_cost = -0.10
+	}
+}
+
+
+A04_ideas = {#Norvocy
+	start = {
+		reduced_liberty_desire = 20
+		diplomatic_reputation = 1
+	}
+
+	bonus = {
+		discipline = 0.05
+	}
+
+	trigger = {
+		tag = A01
+	}
+
+	free = yes		#will be added at load.
+
+	savakar_idea_1 = {
+		land_morale = 0.15
+	}
+	savakar_idea_2 = {
+		vassal_income = 0.33
+	}
+	savakar_idea_3 = {
+		advisor_cost = -0.20
+	}
+	savakar_idea_4 = {
+		diplomats = 1
+	}
+	savakar_idea_5 = {
+		state_maintenance_modifier = -0.30
+	}
+	savakar_idea_6 = {
+		production_efficiency = 0.10
+	}
+	savakar_idea_7 = {
+		development_cost = -0.10
+	}
+}
+
+
+A05_ideas = {#Khadian Order
+	start = {
+		reduced_liberty_desire = 20
+		diplomatic_reputation = 1
+	}
+
+	bonus = {
+		discipline = 0.05
+	}
+
+	trigger = {
+		tag = A01
+	}
+
+	free = yes		#will be added at load.
+
+	savakar_idea_1 = {
+		land_morale = 0.15
+	}
+	savakar_idea_2 = {
+		vassal_income = 0.33
+	}
+	savakar_idea_3 = {
+		advisor_cost = -0.20
+	}
+	savakar_idea_4 = {
+		diplomats = 1
+	}
+	savakar_idea_5 = {
+		state_maintenance_modifier = -0.30
+	}
+	savakar_idea_6 = {
+		production_efficiency = 0.10
+	}
+	savakar_idea_7 = {
+		development_cost = -0.10
+	}
+}
+
+
+A06_ideas = {#Seshar
+	start = {
+		reduced_liberty_desire = 20
+		diplomatic_reputation = 1
+	}
+
+	bonus = {
+		discipline = 0.05
+	}
+
+	trigger = {
+		tag = A01
+	}
+
+	free = yes		#will be added at load.
+
+	savakar_idea_1 = {
+		land_morale = 0.15
+	}
+	savakar_idea_2 = {
+		vassal_income = 0.33
+	}
+	savakar_idea_3 = {
+		advisor_cost = -0.20
+	}
+	savakar_idea_4 = {
+		diplomats = 1
+	}
+	savakar_idea_5 = {
+		state_maintenance_modifier = -0.30
+	}
+	savakar_idea_6 = {
+		production_efficiency = 0.10
+	}
+	savakar_idea_7 = {
 		development_cost = -0.10
 	}
 }

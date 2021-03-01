@@ -1,3 +1,8 @@
 #Akheptian Empire Countries
 KHE = "countries/Khensar.txt"
 A01 = "countries/Savakar.txt"
+A02 = "countries/Aramel.txt"
+A03 = "countries/Merkatari.txt"
+A04 = "countries/Norvocy.txt"
+A05 = "countries/Khadian_Order.txt"
+A06 = "countries/Seshar.txt"

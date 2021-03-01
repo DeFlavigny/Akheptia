@@ -1,6 +1,6 @@
 # - AKE_4904
-owner = KHE
-controller = KHE 
+owner = A06
+controller = A06 
 culture = gememkah
 religion = sunni
 capital = "AKE_4904_City"
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 2
 is_city = yes
-add_core = KHE
+add_core = A06
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

@@ -6,9 +6,44 @@ KHE = {
     color3= { 193 26 14  }
 }
 
-#Old Akheptia
+#Savakar
 A01 = {
     color1= { 2 79 35  }
     color2= { 255 46 46  }
     color3= { 77 191 86  }
+}
+
+#Aramel
+A02 = {
+    color1= { 28 28 128  }
+    color2= { 245 231 42  }
+    color3= { 217 217 217  }
+}
+
+#Merkatari
+A03 = {
+    color1= { 226  227  154  }
+    color2= { 41 39 39  }
+    color3= { 204 2 9  }
+}
+
+#Norvocy
+A04 = {
+    color1= { 79  102  77  }
+    color2= { 224 224 218  }
+    color3= { 69 97 63  }
+}
+
+#Khadian Order
+A05 = {
+    color1= { 7  55  245  }
+    color2= { 222 185 0  }
+    color3= { 108 132 212  }
+}
+
+#Seshar
+A06 = {
+    color1= { 219  108  11  }
+    color2= { 18 17 16  }
+    color3= { 173 130 92  }
 }

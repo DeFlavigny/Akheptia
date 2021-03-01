@@ -1,6 +1,6 @@
 #Ideas for all countries of the Akheptian Empire
 
-aahonru_ideas = {
+aahonru_ideas = { #Northwest Defenders
 	start = {
 		army_tradition = 0.25
 		defensiveness = 0.20
@@ -37,5 +37,365 @@ aahonru_ideas = {
 	}
 	aahonru_idea_7 = {
 		build_cost = -0.15
+	}
+}
+
+aaher_ideas = { #Southwest defenders
+	start = {
+		mercenary_cost = -0.25
+		diplomatic_reputation = 1
+	}
+
+	bonus = {
+		land_morale = 0.10
+	}
+
+	trigger = {
+		primary_culture = aaher
+	}
+
+	free = yes		#will be added at load.
+
+	aaher_idea_1 = {
+		possible_condottieri = 1
+		merc_maintenance_modifier = -0.15
+	}
+	aaher_idea_2 = {
+		diplomatic_reputation = 1
+	}
+	aaher_idea_3 = {
+		build_time = -0.25
+	}
+	aaher_idea_4 = {
+		interest = -1
+	}
+	aaher_idea_5 = {
+		shock_damage = 0.10
+	}
+	aaher_idea_6 = {
+		improve_relation_modifier = 0.15
+	}
+	aaher_idea_7 = {
+		land_morale = 0.10
+	}
+}
+
+demefer_ideas = { #North Defenders
+	start = {
+		hostile_attrition = 1
+		advisor_cost = -0.10
+	}
+
+	bonus = {
+		global_missionary_strength = 0.02
+	}
+
+	trigger = {
+		primary_culture = demefer
+	}
+
+	free = yes		#will be added at load.
+
+	demefer_idea_1 = {
+		defensiveness = 0.20
+	}
+	demefer_idea_2 = {
+		manpower_recovery_speed = 0.20
+	}
+	demefer_idea_3 = {
+		fort_maintenance_modifier = -0.40
+	}
+	demefer_idea_4 = {
+		spy_offence = 0.25
+	}
+	demefer_idea_5 = {
+		enemy_core_creation = 0.30
+	}
+	demefer_idea_6 = {
+		land_morale = 0.10
+	}
+	demefer_idea_7 = {
+		global_tax_modifier = 0.15
+	}
+}
+
+
+khensarian_ideas = { #Government
+	start = {
+		improve_relation_modifier = 0.15
+		adm_cost_modifier = -0.1
+	}
+
+	bonus = {
+		land_forcelimit = 0.20
+	}
+
+	trigger = {
+		primary_culture = khensarian
+	}
+
+	free = yes		#will be added at load.
+
+	khensarian_idea_1 = {
+		production_efficiency = 0.10
+	}
+	khensarian_idea_2 = {
+		prestige = 1
+	}
+	khensarian_idea_3 = {
+		infantry_cost = -0.20
+	}
+	khensarian_idea_4 = {
+		global_manpower_modifier = 0.15
+	}
+	khensarian_idea_5 = {
+		dip_advisor_cost = -0.25
+		female_advisor_chance = 0.25
+	}
+	khensarian_idea_6 = {
+		state_maintenance_modifier = -0.20
+	}
+	khensarian_idea_7 = {
+		development_cost = -0.10
+	}
+}
+
+zalasi_ideas = { #Isolationists
+	start = {
+		development_cost = -0.10
+		build_cost = -0.15
+	}
+
+	bonus = {
+		hostile_attrition = 1
+	}
+
+	trigger = {
+		primary_culture = zalasi
+	}
+
+	free = yes		#will be added at load.
+
+	zalasi_idea_1 = {
+		infantry_power = 0.10
+	}
+	zalasi_idea_2 = {
+		leader_cost = -0.25
+		may_recruit_female_generals = yes
+	}
+	zalasi_idea_3 = {
+		global_unrest = -2
+	}
+	zalasi_idea_4 = {
+	  culture_conversion_cost = -0.25
+	}
+	zalasi_idea_5 = {
+		spy_offence = 0.25
+	}
+	zalasi_idea_6 = {
+		embargo_efficiency = 0.33
+	}
+	zalasi_idea_7 = {
+		idea_cost = -0.10
+	}
+}
+
+
+isesnet_ideas = { #Economists
+	start = {
+		inflation_reduction = -0.10
+		global_regiment_cost = -0.20
+	}
+
+	bonus = {
+		free_adm_policy = 1
+	}
+
+	trigger = {
+		primary_culture = isesnet
+	}
+
+	free = yes		#will be added at load.
+
+	isesnet_idea_1 = {
+		build_cost = -0.15
+	}
+	isesnet_idea_2 = {
+		diplomats = 1
+	}
+	isesnet_idea_3 = {
+		advisor_pool = 1
+	}
+	isesnet_idea_4 = {
+	  global_trade_goods_size_modifier = 0.10
+	}
+	isesnet_idea_5 = {
+		fire_damage_received = -0.10
+	}
+	isesnet_idea_6 = {
+		production_efficiency = 0.10
+	}
+	isesnet_idea_7 = {
+		legitimacy = 1
+	}
+}
+
+
+demokhep_ideas = { #Economists
+	start = {
+		trade_steering = 0.25
+		global_institution_spread = 0.20
+	}
+
+	bonus = {
+		reinforce_speed = 0.20
+	}
+
+	trigger = {
+		primary_culture = demokhep
+	}
+
+	free = yes		#will be added at load.
+
+	demokhep_idea_1 = {
+		num_accepted_cultures = 1
+	}
+	demokhep_idea_2 = {
+		land_morale = 0.10
+	}
+	demokhep_idea_3 = {
+		trade_efficiency = 0.10
+	}
+	demokhep_idea_4 = {
+	  trade_value_modifier = 0.10
+	}
+	demokhep_idea_5 = {
+		cavalry_cost = -0.20
+	}
+	demokhep_idea_6 = {
+		improve_relation_modifier = 0.15
+	}
+	demokhep_idea_7 = {
+		interest = -1
+	}
+}
+
+
+gememkah_ideas = { #Economists
+	start = {
+		global_tax_modifier = 0.10
+		global_unrest = -1
+	}
+
+	bonus = {
+		global_trade_power = 0.10
+	}
+
+	trigger = {
+		primary_culture = gememkah
+	}
+
+	free = yes		#will be added at load.
+
+	gememkah_idea_1 = {
+		land_morale = 0.10
+	}
+	gememkah_idea_2 = {
+		tolerance_own = 1
+	}
+	gememkah_idea_3 = {
+		unjustified_demands = -0.30
+	}
+	gememkah_idea_4 = {
+	  government_capacity_modifier = 0.20
+	}
+	gememkah_idea_5 = {
+		shock_damage = 0.10
+	}
+	gememkah_idea_6 = {
+		adm_cost_modifier = -0.10
+	}
+	gememkah_idea_7 = {
+		global_missionary_strength = 0.02
+	}
+}
+
+
+sen_khanmut_ideas = { #Khanite Cities
+	start = {
+		same_culture_advisor_cost = -0.20
+		caravan_power = 0.25
+	}
+
+	bonus = {
+		global_institution_spread = 0.40
+	}
+
+	trigger = {
+		primary_culture = sen_khanmut
+	}
+
+	free = yes		#will be added at load.
+
+	sen_khanmut_idea_1 = {
+		merc_maintenance_modifier = -0.20
+	}
+	sen_khanmut_idea_2 = {
+		fire_damage_received -0.10
+	}
+	sen_khanmut_idea_3 = {
+		improve_relation_modifier = 0.15
+	}
+	sen_khanmut_idea_4 = {
+	  diplomatic_upkeep = 1
+	}
+	sen_khanmut_idea_5 = {
+		global_spy_defence = 0.25
+	}
+	sen_khanmut_idea_6 = {
+		development_cost = 0.10
+	}
+	sen_khanmut_idea_7 = {
+		build_cost = -0.20
+	}
+}
+
+
+ars_khanmut_ideas = { #Khanite Cities
+	start = {
+		land_forcelimit = 0.20
+		movement_speed = 0.10
+	}
+
+	bonus = {
+		discipline = 0.05
+	}
+
+	trigger = {
+		primary_culture = ars_khanmut
+	}
+
+	free = yes		#will be added at load.
+
+	ars_khanmut_idea_1 = {
+		nobles_loyalty_modifier = 0.10
+	}
+	ars_khanmut_idea_2 = {
+		ae_impact = -0.10
+	}
+	ars_khanmut_idea_3 = {
+		land_attrition = -0.15
+	}
+	ars_khanmut_idea_4 = {
+	  cavalry_power = 0.15
+	}
+	ars_khanmut_idea_5 = {
+		cavalry_cost = -0.20
+	}
+	ars_khanmut_idea_6 = {
+		local_autonomy = -0.10
+	}
+	ars_khanmut_idea_7 = {
+		num_accepted_cultures = 1
 	}
 }

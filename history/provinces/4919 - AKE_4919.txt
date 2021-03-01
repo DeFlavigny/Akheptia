@@ -1,7 +1,7 @@
 # - AKE_4919
 owner = KHE
 controller = KHE 
-culture = hotefret
+culture = zalasi
 religion = sunni
 capital = "AKE_4919_City"
 trade_goods = grain

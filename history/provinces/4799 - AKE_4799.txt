@@ -1,6 +1,6 @@
 # - Khamendekh
-owner = KHE
-controller = KHE 
+owner = A05
+controller = A05 
 culture = aahonru
 religion = sunni
 capital = "AKE_4799_City"
@@ -10,7 +10,7 @@ base_tax = 8
 base_production = 3
 base_manpower = 4
 is_city = yes
-add_core = KHE
+add_core = A05
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim

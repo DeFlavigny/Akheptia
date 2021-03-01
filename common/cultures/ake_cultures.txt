@@ -55,7 +55,7 @@ kalmaric = {
 		}
 	}
 
-	hotefret = {
+	zalasi = {
 		primary = KHE
 		male_names = {
 			Ameth Cleoset Mernatari Khaa Aclid

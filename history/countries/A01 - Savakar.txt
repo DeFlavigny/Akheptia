@@ -5,5 +5,5 @@ mercantilism = 25
 technology_group = western
 religion = sunni
 primary_culture = khensarian
-capital = 4974	# Old Akheptia
-fixed_capital = 4974 # Cannot move capital away from this province & no power cost to move to it
+capital = 4794	#Khepstara
+fixed_capital = 4794 # Cannot move capital away from this province & no power cost to move to it
