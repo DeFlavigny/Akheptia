@@ -18,10 +18,10 @@ aahonru_ideas = { #Northwest Defenders
 	free = yes		#will be added at load.
 
 	aahonru_idea_1 = {
-		stability_cost_modifier = -0.25
+		stability_cost_modifier = -0.20
 	}
 	aahonru_idea_2 = {
-		shock_damage_received = 0.1
+		shock_damage_received = -0.1
 	}
 	aahonru_idea_3 = {
 		nobles_loyalty_modifier = 0.1
@@ -123,11 +123,11 @@ demefer_ideas = { #North Defenders
 khensarian_ideas = { #Government
 	start = {
 		improve_relation_modifier = 0.15
-		adm_cost_modifier = -0.1
+		technology_cost = -0.05
 	}
 
 	bonus = {
-		land_forcelimit = 0.20
+		land_forcelimit_modifier = 0.15
 	}
 
 	trigger = {
@@ -137,19 +137,19 @@ khensarian_ideas = { #Government
 	free = yes		#will be added at load.
 
 	khensarian_idea_1 = {
-		production_efficiency = 0.10
+		global_tax_modifier = 0.10
 	}
 	khensarian_idea_2 = {
 		prestige = 1
 	}
 	khensarian_idea_3 = {
-		infantry_cost = -0.20
+		land_maintenance_modifier = -0.10
 	}
 	khensarian_idea_4 = {
 		global_manpower_modifier = 0.15
 	}
 	khensarian_idea_5 = {
-		dip_advisor_cost = -0.25
+		dip_advisor_cost = -0.20
 		female_advisor_chance = 0.25
 	}
 	khensarian_idea_6 = {
@@ -203,12 +203,12 @@ zalasi_ideas = { #Isolationists
 
 isesnet_ideas = { #Economists
 	start = {
-		inflation_reduction = -0.10
-		global_regiment_cost = -0.20
+		inflation_reduction = 0.10
+		land_maintenance_modifier = -0.10
 	}
 
 	bonus = {
-		free_adm_policy = 1
+		possible_adm_policy = 1
 	}
 
 	trigger = {
@@ -236,7 +236,10 @@ isesnet_ideas = { #Economists
 		production_efficiency = 0.10
 	}
 	isesnet_idea_7 = {
-		legitimacy = 1
+		legitimacy = 0.5
+		republican_tradition = 0.15
+		devotion = 1
+		horde_unity = 1
 	}
 }
 
@@ -270,13 +273,13 @@ demokhep_ideas = { #Economists
 	  trade_value_modifier = 0.10
 	}
 	demokhep_idea_5 = {
-		cavalry_cost = -0.20
+		infantry_cost = -0.15
 	}
 	demokhep_idea_6 = {
 		improve_relation_modifier = 0.15
 	}
 	demokhep_idea_7 = {
-		interest = -1
+		interest = -0.50
 	}
 }
 
