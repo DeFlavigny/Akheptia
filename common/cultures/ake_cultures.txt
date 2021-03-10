@@ -5,145 +5,75 @@ kalmaric = {
 
 	khensarian = {
 		primary = KHE
-		male_names = {
-			Ameth Cleoset Mernatari Khaa Aclid
-		}
-		female_names = {
-			Ametha Cleosa Mernataria Khia Aclid
-		}
-		dynasty_names = {
-			Nephra Khalma
-		}
 	}
 
 	demefer = {
 		primary = KHE
-		male_names = {
-			Ameth Cleoset Mernatari Khaa Aclid
-		}
-		female_names = {
-			Ametha Cleosa Mernataria Khia Aclid
-		}
-		dynasty_names = {
-			Nephra Khalma
-		}
 	}
 
 	aahonru = {
 		primary = KHE
-		male_names = {
-			Ameth Cleoset Mernatari Khaa Aclid
-		}
-		female_names = {
-			Ametha Cleosa Mernataria Khia Aclid
-		}
-		dynasty_names = {
-			Nephra Khalma
-		}
 	}
 
 	aaher = {
 		primary = KHE
-		male_names = {
-			Ameth Cleoset Mernatari Khaa Aclid
-		}
-		female_names = {
-			Ametha Cleosa Mernataria Khia Aclid
-		}
-		dynasty_names = {
-			Nephra Khalma
-		}
 	}
 
 	zalasi = {
 		primary = KHE
-		male_names = {
-			Ameth Cleoset Mernatari Khaa Aclid
-		}
-		female_names = {
-			Ametha Cleosa Mernataria Khia Aclid
-		}
-		dynasty_names = {
-			Nephra Khalma
-		}
 	}
 
 	isesnet = {
 		primary = KHE
-		male_names = {
-			Ameth Cleoset Mernatari Khaa Aclid
-		}
-		female_names = {
-			Ametha Cleosa Mernataria Khia Aclid
-		}
-		dynasty_names = {
-			Nephra Khalma
-		}
 	}
 
 	demokhep = {
 		primary = KHE
-		male_names = {
-			Ameth Cleoset Mernatari Khaa Aclid
-		}
-		female_names = {
-			Ametha Cleosa Mernataria Khia Aclid
-		}
-		dynasty_names = {
-			Nephra Khalma
-		}
 	}
 
 	gememkah = {
 		primary = KHE
-		male_names = {
-			Ameth Cleoset Mernatari Khaa Aclid
-		}
-		female_names = {
-			Ametha Cleosa Mernataria Khia Aclid
-		}
-		dynasty_names = {
-			Nephra Khalma
-		}
 	}
 
 	sen_khanmut = {
 		primary = KHE
-		male_names = {
-			Ameth Cleoset Mernatari Khaa Aclid
-		}
-		female_names = {
-			Ametha Cleosa Mernataria Khia Aclid
-		}
-		dynasty_names = {
-			Nephra Khalma
-		}
 	}
 
 	ars_khanmut = {
 		primary = KHE
-		male_names = {
-			Ameth Cleoset Mernatari Khaa Aclid
-		}
-		female_names = {
-			Ametha Cleosa Mernataria Khia Aclid
-		}
-		dynasty_names = {
-			Nephra Khalma
-		}
 	}
 
 	male_names = {
 		Ameth Cleoset Mernatari Khaa Aclid
 		Kawacleok Harkherqeth Karocris Ibiandes Baqekhmire Sekhephren Ibiseneb Hemanhotekh Khamunakht Paremopet Thutmoros Henut
 		Hakot Psusen Paner Nubkhesankh Rahemun Ahhoptakh Nubkherekh Khutari Rahetekh Amenhobi
+		Ra-khepera Braheem Hor-em-hebi Horemheb Akil Bomani Nasch-ti-nebef Murdus Atmoo "Atefnuter ai"
+		Kauib Tota Petemnestheus Uah Amensidsjaankh Si-nen-uer Ozier Neb-nofre Ra-s-hotep-het
+		Kau Horemheb Ken-amen Amenhotep Asseth Chefren Nefera Shaa-em-uas Khnum-khufu Khaemt
+		Piouer Psametik Apepi Sap Sennofre Pantina Nekht Amennaanka Par-ab-hor
 	}
 	female_names = {
 		Ametha Cleosa Mernataria Khia Aclid
 		Kawaclea Harkherqa Karocria Ibianda Baqekhmirine Sekhephra Ibisenne Hemanhotapra Khamunakhta Paremopetra Thutmorosia Hena
 		Hakotra Psusenza Panera Nubkhesankhra Rahema Ahhoptah Nubkheratra Khutara Rahetef Amenhoba
+		Hon-t-kha-ra Ta-ei Khata Shukura Iousaas Amunnebkettoti Ti-pouei Ahura Asenath
+		Quibilah Cabar Akusaa Neithoker Ra-ma-uer-nefru Thiti Ra-nefru Meri-s-te-khu Zahra
+		Usur-t-kau Hes-ra Siti Arsinoe Uatit Oseye Echidna Sharifa Bektaten Hon-t Teiharset
+		Amenset Asenath Tat-maut-a-s-ankh Nub-em-tekh Zahra Ameniritis Ariuru Serq Sabo-en-ea
+		Usur-t-kau Nebet
 	}
 	dynasty_names = {
-		Nephra Khalma Nebehyt Henupses Henupses Henupses Henupses Henupses Henupses Henupses Neferu Inetkatamun Menkhenhotekh Nefemenes
+		Nephra Khalma Nebehyt Henupses Henupses Henupses Henupses Henupses Henupses Henupses Neferu
+		Inetkatamun Menkhenhotekh Nefemenes
+		Djaburma Tarbedet Enkhalzum Edtasiris Tabumu Semu Cude Clysdjetennu Akbe Hebsatunis
+		Tapneitaten Abnu Amneilzum Tjenpisai Edsa Aksimar Setbu Nekme Amdjubu Nekbehenet
+		Ashsairu Tjenpina Mene Sate Cusanemhat Djankhathis Nebsouta Geskhen Besnounutjer
+		Khesithus
+		"oth Isekauhor" "oth Ganymnisu" "oth Khufer" "oth Gemenaten" "oth Cleobi"
+		"oth Ptahmonut" "oth Heqanakht" "oth Baqeqed" "oth Khamekor" "oth Ibimun"
+		"oth Djedephren" "oth Mutnemehyt" "oth Sahukhmire" "oth Hakokare" "oth Imhora"
+		"oth Heteshen" "oth Nectadjem" "oth Simunhor" "oth Gemefret" "oth Ashanmut" "oth Djedephren"
+		"oth Mutnemehyt" "oth Sahukhmire" "oth Hakokare" "oth Imhora" "oth Heteshen" "oth Nectadjem"
+		"oth Simunhor" "oth Gemefret" "oth Ashanmut" 
 	}
 }

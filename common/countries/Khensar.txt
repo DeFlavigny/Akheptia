@@ -14,7 +14,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	innovativeness_ideas
 	spy_ideas
-	trade_ideas	
+	trade_ideas
 }
 
 historical_units = {
@@ -36,86 +36,127 @@ historical_units = {
 }
 
 monarch_names = {
-	"Friedrich #0" = 100
-	"Ludwig #2" = 80
-	"Ruprecht #2" = 20
-	"Johann Wilhelm #0" = 20
-	"Karl #0" = 20
-	"Karl #0 Ludwig" = 20
-	"Karl #0 Philipp" = 20
-	"Karl #0 Theodor" = 20
-	"Otto Heinrich #0" = 20
-	"Philipp #0" = 20
-	"Philipp Wilhelm #0" = 20
-	"Heinrich #6 Friedrich" = 15
-	"Alexander Siegmund #0" = 15
-	"Friedrich #0 Philipp" = 15
-	"Johann Friedrich #0" = 15
-	"Ludwig Anton #0" = 15
-	"Ludwig Philipp #0" = 15
-	"Hermann #3 Ludwig" = 10
-	"Wilhelm #1" = 10
-	"Albrecht #0" = 10
-	"Christoph #0" = 10
-	"Eduard #0" = 10
-	"Franz Ludwig #0" = 10
-	"Friedrich #0 Wilhelm" = 10
-	"Georg #0" = 10
-	"Gustav Adolf #0" = 10
-	"Johann Kasimir #0" = 10
-	"Ludwig Wilhelm #0" = 10
-	"Moritz #0" = 10
-	"Moritz Christian #0" = 10
-	"Richard #0" = 10
-	"Wolfgang Georg #0" = 10
-	"Gottfried #1" = 5
-	"Bruno #0" = 0
-	"Gottschalk #0" = 0
-	"Hieronymus #0" = 0
-	"Ignatz #0" = 0
-	"Markus #0" = 0
-	"Raphael #0" = 0
-	"Rüdiger #0" = 0
-	
-	"Aleida #0" = -1
-	"Cordula #0" = -1
-	"Gundula #0" = -1
+	#Generic Akheptian Name List
+
+	#Male Names
+	"Ra-khepera #0" = 10
+	"Braheem #0" = 10
+	"Hor-em-hebi #0" = 10
+	"Horemheb #0" = 10
+	"Akil #0" = 10
+	"Bomani #0" = 10
+	"Nasch-ti-nebef #0" = 10
+	"Murdus #0" = 10
+	"Atmoo #0" = 10
+	"Atefnuter ai #0" = 10
+	"Kauib #0" = 10
+	"Tota #0" = 10
+	"Petemnestheus #0" = 10
+	"Uah #0" = 10
+	"Amensidsjaankh #0" = 10
+	"Si-nen-uer #0" = 10
+	"Ozier #0" = 10
+	"Neb-nofre #0" = 10
+	"Ra-s-hotep-het #0" = 10
+	"Kau #0" = 10
+	"Horemheb #0" = 10
+	"Ken-amen #0" = 10
+	"Amenhotep #0" = 10
+	"Asseth #0" = 10
+	"Chefren #0" = 10
+	"Nefera #0" = 10
+	"Shaa-em-uas #0" = 10
+	"Khnum-khufu #0" = 10
+	"Khaemt #0" = 10
+	"Piouer #0" = 10
+	"Psametik #0" = 10
+	"Apepi #0" = 10
+	"Sap #0" = 10
+	"Hu #0" = 10
+	"Una #0" = 10
+	"Sennofre #0" = 10
+	"Pantina #0" = 10
+	"Nekht #0" = 10
+	"Amennaanka #0" = 10
+	"Par-ab-hor #0" = 10
+
+	#Female Names
+	"Hon-t-kha-ra #0" = -10
+	"Ta-ei #0" = -10
+	"Khata #0" = -10
+	"Shukura #0" = -10
+	"Iousaas #0" = -10
+	"Amunnebkettoti #0" = -10
+	"Ti-pouei #0" = -10
+	"Ahura #0" = -10
+	"Asenath #0" = -10
+	"Quibilah #0" = -10
+	"Cabar #0" = -10
+	"Akusaa #0" = -10
+	"Neithoker #0" = -10
+	"Ra-ma-uer-nefru #0" = -10
+	"Thiti #0" = -10
+	"Ra-nefru #0" = -10
+	"Meri-s-te-khu #0" = -10
+	"Zahra #0" = -10
+	"Usur-t-kau #0" = -10
+	"Hes-ra #0" = -10
+	"Siti #0" = -10
+	"Arsinoe #0" = -10
+	"Uatit #0" = -10
+	"Oseye #0" = -10
+	"Echidna #0" = -10
+	"Sharifa #0" = -10
+	"Bektaten #0" = -10
+	"Hon-t #0" = -10
+	"Teiharset #0" = -10
+	"Amenset #0" = -10
+	"Asenath #0" = -10
+	"Tat-maut-a-s-ankh #0" = -10
+	"Nub-em-tekh #0" = -10
+	"Zahra #0" = -10
+	"Ameniritis #0" = -10
+	"Ariuru #0" = -10
+	"Serq #0" = -10
+	"Sabo-en-ea #0" = -10
+	"Usur-t-kau #0" = -10
+	"Nebet #0" = -10
 }
 
 leader_names = {
-	Blittersdorf
-	"von Gelnhausen"
-	"von Schöneck"
-	"von Dieblich"
-	Cölln
-	Bensenraede
-	Adenau
-	Gruithausen
-	Hohenfeld
-	"von Namedy"
-	Falkenberg
-	"von Clausbruch"
-	Hillensberg
-	Dammerscheidt
-	Elmpt
-	Naxleden
-	Schaluyn
-	"von Leyen"
-	Ansembourg
-	Zebnitsch
+
+	#Generic Akheptian Dynasties
+	Nephra Khalma Nebehyt Henupses Henupses Henupses Henupses Henupses Henupses Henupses Neferu
+	Inetkatamun Menkhenhotekh Nefemenes
+	Djaburma Tarbedet Enkhalzum Edtasiris Tabumu Semu Cude Clysdjetennu Akbe Hebsatunis
+	Tapneitaten Abnu Amneilzum Tjenpisai Edsa Aksimar Setbu Nekme Amdjubu Nekbehenet
+	Ashsairu Tjenpina Mene Sate Cusanemhat Djankhathis Nebsouta Geskhen Besnounutjer
+	Khesithus
+
+	#Titles
+	"'the Scholar'" "'the Warrior'" "'the Brave'" "'the Calm'" "'the Careful'" "'the Kind'"
+	"'the Strong'" "'the Quick'" "'the Strategist'" "'the Duelist'" "'the Ancient'"
+	"'the Reaper'" "'the Rider'"
 }
 
 ship_names = {
-	Neustadt Kaiserslautern Elmstein Landstuhl
-	Rhodt Deidesheim Hochspeyer Neunkirchen
-	Wolfstein Winnweiler
+	#EU4 egyptian ship names
+	"Zaher Barqooq" "Farag Ben Barqooq"
+	"Ben Barqooq" "Muyaid Sheikh" "Ahmen Muyaid"
+	"Zaher Tatar" "Nasser Muhamed" "Ashraf Barsbay"
+	"Aziz Gamal" "Nahr an-Nil" "Al-Farafirah"
+	"Ad-Dï¿½khilah" "Al-Kharijah" "Al-Ali" "Al-Bahriyah"
+	Rahman Rahim Malik Quddus Salam Mu'min Muhaymin
+	Aziz Jabbar Mutakabbir Khaliq Bari Musawwir
+	Ghaffar Qahhar Wahhab Razzaq Fattah Alim Qabid
+	Basit Khafid Rafi Mu'izz Mudhill Sami Basir Hakam Adl
 }
 
 
 army_names = {
-	"Armee von $PROVINCE$" 
+	"Army of $PROVINCE$"
 }
 
 fleet_names = {
-	"Stadtflotte"
+	"Sebfleet" "Narfleet" "Hesfleet" "Harrfleet" "Sashfleet"
 }
